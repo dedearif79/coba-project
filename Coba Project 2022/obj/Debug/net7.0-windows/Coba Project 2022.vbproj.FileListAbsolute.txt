@@ -1,0 +1,25 @@
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba_Project_2022.frm_Coba.resources
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.vbproj.GenerateResource.cache
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.GeneratedMSBuildEditorConfig.editorconfig
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.AssemblyInfoInputs.cache
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.AssemblyInfo.vb
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.vbproj.CoreCompileInputs.cache
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\Coba Project 2022.exe
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\Coba Project 2022.deps.json
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\Coba Project 2022.runtimeconfig.json
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\Coba Project 2022.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\Coba Project 2022.pdb
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\refint\Coba Project 2022.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.pdb
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.genruntimeconfig.cache
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\ref\Coba Project 2022.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.Asio.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.Core.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.Midi.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Project 2022.vbproj.AssemblyReference.cache
+D:\VB .Net Project\Coba Project 2022\Coba Project 2022\obj\Debug\net7.0-windows\Coba Pro.6978AB40.Up2Date
