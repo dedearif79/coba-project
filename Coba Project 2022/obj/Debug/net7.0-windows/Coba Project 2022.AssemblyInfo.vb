@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("Coba Project 2022"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53610f67b66ccb80ae88b2a6beb44ef6c964936f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("Coba Project 2022"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("Coba Project 2022"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _

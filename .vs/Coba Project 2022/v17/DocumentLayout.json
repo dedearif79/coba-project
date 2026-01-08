@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{BADF442E-A3BF-4B0F-A390-62D300DEBE95}|Coba Project 2022\\Coba Project 2022.vbproj|solutionrelative:coba project 2022\\coba aja.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BADF442E-A3BF-4B0F-A390-62D300DEBE95}|Coba Project 2022\\Coba Project 2022.vbproj|d:\\vb .net project\\coba project 2022\\coba project 2022\\coba aja.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{BADF442E-A3BF-4B0F-A390-62D300DEBE95}|Coba Project 2022\\Coba Project 2022.vbproj|solutionrelative:coba project 2022\\coba aja.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BADF442E-A3BF-4B0F-A390-62D300DEBE95}|Coba Project 2022\\Coba Project 2022.vbproj|d:\\vb .net project\\coba project 2022\\coba project 2022\\mdl_modulumum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{BADF442E-A3BF-4B0F-A390-62D300DEBE95}|Coba Project 2022\\Coba Project 2022.vbproj|solutionrelative:coba project 2022\\mdl_modulumum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     }
@@ -22,8 +18,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mdl_ModulUmum.vb",
+              "DocumentMoniker": "D:\\VB .Net Project\\Coba Project 2022\\Coba Project 2022\\mdl_ModulUmum.vb",
+              "RelativeDocumentMoniker": "Coba Project 2022\\mdl_ModulUmum.vb",
+              "ToolTip": "D:\\VB .Net Project\\Coba Project 2022\\Coba Project 2022\\mdl_ModulUmum.vb",
+              "RelativeToolTip": "Coba Project 2022\\mdl_ModulUmum.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-01-08T00:59:16.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,30 +49,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-01-08T00:43:12.678Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "mdl_ModulUmum.vb",
-              "DocumentMoniker": "D:\\VB .Net Project\\Coba Project 2022\\Coba Project 2022\\mdl_ModulUmum.vb",
-              "RelativeDocumentMoniker": "Coba Project 2022\\mdl_ModulUmum.vb",
-              "ToolTip": "D:\\VB .Net Project\\Coba Project 2022\\Coba Project 2022\\mdl_ModulUmum.vb",
-              "RelativeToolTip": "Coba Project 2022\\mdl_ModulUmum.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2023-09-02T10:20:38.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Coba Aja.vb [Design]",
-              "DocumentMoniker": "D:\\VB .Net Project\\Coba Project 2022\\Coba Project 2022\\Coba Aja.vb",
-              "RelativeDocumentMoniker": "Coba Project 2022\\Coba Aja.vb",
-              "ToolTip": "D:\\VB .Net Project\\Coba Project 2022\\Coba Project 2022\\Coba Aja.vb [Design]",
-              "RelativeToolTip": "Coba Project 2022\\Coba Aja.vb [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2023-08-16T14:31:45.002Z",
-              "EditorCaption": " [Design]"
             }
           ]
         }

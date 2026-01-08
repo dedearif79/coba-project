@@ -4,5 +4,9 @@
         Inherits Button
     End Class
 
+    Sub coba()
+
+    End Sub
+
 
 End Module
